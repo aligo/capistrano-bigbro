@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['aligo Kang']
   spec.email         = ['aligo_x@163.com']
 
-  spec.summary       = %q{}
-  spec.description   = %q{}
+  spec.summary       = %q{Monit integration for Capistrano 3.}
+  spec.description   = %q{Monit integration for Capistrano 3.}
   spec.homepage      = 'https://github.com/aligo/capistrano-bigbro'
   spec.license       = 'MIT'
 

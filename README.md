@@ -1,5 +1,6 @@
 # Capistrano::Bigbro
 
+Monit integration for Capistrano 3.
 
 ## Installation
 
